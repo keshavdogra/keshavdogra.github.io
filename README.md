@@ -1,11 +1,15 @@
 <a id="working-papers"></a> 
 # Working Papers
 
-[Is the Green Transition Inflationary?](https://keshavdogra.github.io/papers/DNdiGDo_climate_inflation%20v2.pdf), with Marco Del Negro and Julian di Giovanni, [CEPR Discussion Paper 17906](https://cepr.org/publications/dp17906), [NY Fed Staff Report No. 1053](https://www.newyorkfed.org/research/staff_reports/sr1053) 
+[The New York Fed DSGE Model: A Post-Covid Assessment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4691985), with Marco Del Negro, Aidan Gleich, Pranay Gundam, Donggyu Lee, Ramya Nallamotu, and Brian Pacula, [NY Fed Staff Report No. 1082](https://www.newyorkfed.org/research/staff_reports/sr1082.html), [CEPR Discussion Paper 18742](https://cepr.org/publications/dp18742)
 
 [Capital Management and Wealth Inequality](https://keshavdogra.github.io/papers/BestDogra_jan2024.pdf), with James Best, [NY Fed Staff Report No. 1072](https://www.newyorkfed.org/research/staff_reports/sr1072.html)
 
+[Estimating HANK for Central Banks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4548683), with Sushant Acharya, William Chen, Marco Del Negro, Aidan Gleich, Shlok Goyal, Ethan Matlin, Donggyu Lee, Reca Sarfati, and Sikata Sengupta, [NY Fed Staff Report No. 1071](https://www.newyorkfed.org/research/staff_reports/sr1071.html), [CEPR Discussion Paper 18407](https://cepr.org/publications/dp18407)
+
 [Estimates of Cost-Price Passthrough from Business Survey Data](https://keshavdogra.github.io/papers/dogra_et_al_cost_price_passthrough.pdf), with Sebastian Heise, Edward Knotek, Brent Meyer, Robert Rich, Raphael Schoenle, Giorgio Topa, Wilbert van der Klaauw, and Wändi Bruine de Bruin, [NY Fed Staff Report No. 1062](https://www.newyorkfed.org/research/staff_reports/sr1062.html)
+
+[Is the Green Transition Inflationary?](https://keshavdogra.github.io/papers/DNdiGDo_climate_inflation%20v2.pdf), with Marco Del Negro and Julian di Giovanni, [NY Fed Staff Report No. 1053](https://www.newyorkfed.org/research/staff_reports/sr1053), [CEPR Discussion Paper 17906](https://cepr.org/publications/dp17906)
 
 [The Financial Origins of Non-Fundamental Risk](https://keshavdogra.github.io/papers/ADS_Nov21.pdf), with Sushant Acharya and Sanjay R Singh
 
