@@ -1,4 +1,4 @@
-<a id="working-papers"># Working Papers</a> 
+<a id="working-papers"></a># Working Papers
 
 [Is the Green Transition Inflationary?](https://keshavdogra.github.io/papers/DNdiGDo_climate_inflation%20v2.pdf), with Marco Del Negro and Julian di Giovanni, [CEPR Discussion Paper 17906](https://cepr.org/publications/dp17906), [NY Fed Staff Report No. 1053](https://www.newyorkfed.org/research/staff_reports/sr1053) 
 
@@ -8,7 +8,7 @@
 
 [The Financial Origins of Non-Fundamental Risk](https://keshavdogra.github.io/papers/ADS_Nov21.pdf), with Sushant Acharya and Sanjay R Singh
 
-<a id="publications"># Publications</a> 
+<a id="publications"></a># Publications
 
 [Stress Tests and Model Monoculture](https://doi.org/10.1016/j.jfineco.2023.103760), with Keeyoung Rhee, *Journal of Financial Economics*, 2024, Vol 152 (February)
 
