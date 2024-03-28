@@ -4,7 +4,7 @@
 
 [Capital Management and Wealth Inequality](https://keshavdogra.github.io/papers/BestDogra_jan2024.pdf), with James Best, [NY Fed Staff Report No. 1072](https://www.newyorkfed.org/research/staff_reports/sr1072.html)
 
-[Estimates of Cost-Price Passthrough from Business Survey Data](https://keshavdogra.github.io/papers/BestDogra_jan2024.pdf), with Sebastian Heise, Edward Knotek, Brent Meyer, Robert Rich, Raphael Schoenle, Giorgio Topa, Wilbert van der Klaauw, and Wändi Bruine de Bruin, [NY Fed Staff Report No. 1062](https://www.newyorkfed.org/research/staff_reports/sr1062.html)
+[Estimates of Cost-Price Passthrough from Business Survey Data](https://keshavdogra.github.io/papers/dogra_et_al_cost_price_passthrough.pdf), with Sebastian Heise, Edward Knotek, Brent Meyer, Robert Rich, Raphael Schoenle, Giorgio Topa, Wilbert van der Klaauw, and Wändi Bruine de Bruin, [NY Fed Staff Report No. 1062](https://www.newyorkfed.org/research/staff_reports/sr1062.html)
 
 [The Financial Origins of Non-Fundamental Risk](https://keshavdogra.github.io/papers/ADS_Nov21.pdf), with Sushant Acharya and Sanjay R Singh
 
