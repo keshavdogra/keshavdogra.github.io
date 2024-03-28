@@ -1,5 +1,5 @@
-<a id="working-papers"></a> 
 # Working Papers
+<a id="working-papers"></a> 
 
 [The New York Fed DSGE Model: A Post-Covid Assessment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4691985), with Marco Del Negro, Aidan Gleich, Pranay Gundam, Donggyu Lee, Ramya Nallamotu, and Brian Pacula, [NY Fed Staff Report No. 1082](https://www.newyorkfed.org/research/staff_reports/sr1082.html), [CEPR Discussion Paper 18742](https://cepr.org/publications/dp18742)
 
@@ -13,8 +13,8 @@
 
 [The Financial Origins of Non-Fundamental Risk](https://keshavdogra.github.io/papers/ADS_Nov21.pdf), with Sushant Acharya and Sanjay R Singh
 
-<a id="publications"></a>
 # Publications
+<a id="publications"></a>
 
 [Stress Tests and Model Monoculture](https://doi.org/10.1016/j.jfineco.2023.103760), with Keeyoung Rhee, *Journal of Financial Economics*, 2024, Vol 152 (February)
 
