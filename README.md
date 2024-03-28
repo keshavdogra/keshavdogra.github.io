@@ -8,7 +8,7 @@
 
 [The Financial Origins of Non-Fundamental Risk](https://keshavdogra.github.io/papers/ADS_Nov21.pdf), with Sushant Acharya and Sanjay R Singh
 
-# Publications
+<a id="publications"># Publications</a> 
 
 [Stress Tests and Model Monoculture](https://doi.org/10.1016/j.jfineco.2023.103760), with Keeyoung Rhee, *Journal of Financial Economics*, 2024, Vol 152 (February)
 
