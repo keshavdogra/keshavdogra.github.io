@@ -1,4 +1,4 @@
-# Working Papers
+<a id="working-papers"># Working Papers</a> 
 
 [Is the Green Transition Inflationary?](https://keshavdogra.github.io/papers/DNdiGDo_climate_inflation%20v2.pdf), with Marco Del Negro and Julian di Giovanni, [CEPR Discussion Paper 17906](https://cepr.org/publications/dp17906), [NY Fed Staff Report No. 1053](https://www.newyorkfed.org/research/staff_reports/sr1053) 
 
