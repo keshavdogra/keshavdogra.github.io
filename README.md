@@ -22,7 +22,8 @@ with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro) 
 [NY Fed Staff Report No. 1053](https://www.newyorkfed.org/research/staff_reports/sr1053), [CEPR Discussion Paper 17906](https://cepr.org/publications/dp17906)
 
 **[The Financial Origins of Non-Fundamental Risk](https://keshavdogra.github.io/papers/ADS_Nov21.pdf)** \
-with [Sushant Acharya](https://sushantacharya.github.io/) and [Sanjay R Singh](https://ssingh.ucdavis.edu/)
+with [Sushant Acharya](https://sushantacharya.github.io/) and [Sanjay R Singh](https://ssingh.ucdavis.edu/) \
+[CEPR Discussion Paper 16793](https://cepr.org/publications/dp16793)
 
 ## Publications
 <a id="publications"></a>
