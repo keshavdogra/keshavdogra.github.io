@@ -1,4 +1,4 @@
-# Working Papers
+## Working Papers
 <a id="working-papers"></a> 
 
 **[The New York Fed DSGE Model: A Post-Covid Assessment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4691985)** \
@@ -24,7 +24,7 @@ with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro) 
 **[The Financial Origins of Non-Fundamental Risk](https://keshavdogra.github.io/papers/ADS_Nov21.pdf)** \
 with [Sushant Acharya](https://sushantacharya.github.io/) and [Sanjay R Singh](https://ssingh.ucdavis.edu/)
 
-# Publications
+## Publications
 <a id="publications"></a>
 
 **[Stress Tests and Model Monoculture](https://doi.org/10.1016/j.jfineco.2023.103760)** \
