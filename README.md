@@ -1,13 +1,17 @@
 # Working Papers
 <a id="working-papers"></a> 
 
-[**The New York Fed DSGE Model: A Post-Covid Assessment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4691985)\
+[The New York Fed DSGE Model: A Post-Covid Assessment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4691985)\
 with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Pranay Gundam, [Donggyu Lee](https://sites.google.com/view/donggyulee), Ramya Nallamotu, and Brian Pacula\
 [NY Fed Staff Report No. 1082](https://www.newyorkfed.org/research/staff_reports/sr1082.html), [CEPR Discussion Paper 18742](https://cepr.org/publications/dp18742)
 
-[Capital Management and Wealth Inequality](https://keshavdogra.github.io/papers/BestDogra_jan2024.pdf), with [James Best](https://sites.google.com/site/jamesalaricbest/), [NY Fed Staff Report No. 1072](https://www.newyorkfed.org/research/staff_reports/sr1072.html)
+[Capital Management and Wealth Inequality](https://keshavdogra.github.io/papers/BestDogra_jan2024.pdf)\
+with [James Best](https://sites.google.com/site/jamesalaricbest/)\
+[NY Fed Staff Report No. 1072](https://www.newyorkfed.org/research/staff_reports/sr1072.html)
 
-[Estimating HANK for Central Banks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4548683), with [Sushant Acharya](https://sushantacharya.github.io/), [William Chen](https://economics.mit.edu/people/phd-students/william-chen), [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Shlok Goyal, Ethan Matlin, [Donggyu Lee](https://sites.google.com/view/donggyulee), [Reca Sarfati](http://www.recasarfati.com/), and Sikata Sengupta, [NY Fed Staff Report No. 1071](https://www.newyorkfed.org/research/staff_reports/sr1071.html), [CEPR Discussion Paper 18407](https://cepr.org/publications/dp18407)
+[Estimating HANK for Central Banks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4548683)\
+with [Sushant Acharya](https://sushantacharya.github.io/), [William Chen](https://economics.mit.edu/people/phd-students/william-chen), [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Shlok Goyal, Ethan Matlin, [Donggyu Lee](https://sites.google.com/view/donggyulee), [Reca Sarfati](http://www.recasarfati.com/), and Sikata Sengupta\
+[NY Fed Staff Report No. 1071](https://www.newyorkfed.org/research/staff_reports/sr1071.html), [CEPR Discussion Paper 18407](https://cepr.org/publications/dp18407)
 
 [Estimates of Cost-Price Passthrough from Business Survey Data](https://keshavdogra.github.io/papers/dogra_et_al_cost_price_passthrough.pdf), with [Sebastian Heise](https://www.sebastianheise.com/), [Edward Knotek](https://www.clevelandfed.org/people/profiles/k/knotek-edward-s-ii), [Brent Meyer](https://www.atlantafed.org/research/economists/meyer-brent), [Robert Rich](https://www.clevelandfed.org/people/profiles/r/rich-robert-w), [Raphael Schoenle](https://people.brandeis.edu/~schoenle/), [Giorgio Topa](https://www.newyorkfed.org/research/economists/topa), [Wilbert van der Klaauw](https://www.newyorkfed.org/research/economists/vanderklaauw), and [Wändi Bruine de Bruin](https://priceschool.usc.edu/people/wandi-bruine-de-bruin/), [NY Fed Staff Report No. 1062](https://www.newyorkfed.org/research/staff_reports/sr1062.html)
 
