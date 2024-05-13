@@ -1,6 +1,10 @@
 ## Working Papers
 <a id="working-papers"></a> 
 
+**[The Nonlinear Case Against Leaning Against the Wind](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816610)** \
+with [Nina Boyarchenko](https://www.newyorkfed.org/research/economists/Boyarchenko), [Richard Crump](https://www.newyorkfed.org/research/economists/crump), [Leonardo Elias](https://www.newyorkfed.org/research/economists/elias), Ignacio Lopez Gaffney\
+[NY Fed Staff Report No. 1100](https://www.newyorkfed.org/research/staff_reports/sr1100.html)
+
 **[Paradoxes and Problems in the Causal Interpretation of Equilibrium Economics](https://keshavdogra.github.io/papers/Dogra_Paradoxes_2024.pdf)** \
 [NY Fed Staff Report No. 1093](https://www.newyorkfed.org/research/staff_reports/sr1093.html)
 
