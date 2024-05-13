@@ -1,7 +1,7 @@
 ## Working Papers
 <a id="working-papers"></a> 
 
-**[The Nonlinear Case Against Leaning Against the Wind](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4816610)** \
+**[The Nonlinear Case Against Leaning Against the Wind](https://keshavdogra.github.io/papers/BCDEL_2024.pdf)** \
 with [Nina Boyarchenko](https://www.newyorkfed.org/research/economists/Boyarchenko), [Richard Crump](https://www.newyorkfed.org/research/economists/crump), [Leonardo Elias](https://www.newyorkfed.org/research/economists/elias), and Ignacio Lopez Gaffney\
 [NY Fed Staff Report No. 1100](https://www.newyorkfed.org/research/staff_reports/sr1100.html)
 
