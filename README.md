@@ -8,17 +8,10 @@ with [Nina Boyarchenko](https://www.newyorkfed.org/research/economists/Boyarchen
 **[Paradoxes and Problems in the Causal Interpretation of Equilibrium Economics](https://keshavdogra.github.io/papers/Dogra_Paradoxes_2024.pdf)** \
 [NY Fed Staff Report No. 1093](https://www.newyorkfed.org/research/staff_reports/sr1093.html)
 
-**[The New York Fed DSGE Model: A Post-Covid Assessment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4691985)** \
-with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Pranay Gundam, [Donggyu Lee](https://sites.google.com/view/donggyulee), Ramya Nallamotu, and Brian Pacula\
-[NY Fed Staff Report No. 1082](https://www.newyorkfed.org/research/staff_reports/sr1082.html), [CEPR Discussion Paper 18742](https://cepr.org/publications/dp18742)
-
 **[Capital Management and Wealth Inequality](https://keshavdogra.github.io/papers/BestDogra_jan2024.pdf)** \
 with [James Best](https://sites.google.com/site/jamesalaricbest/)\
+R&R, *Journal of the European Economic Association*\
 [NY Fed Staff Report No. 1072](https://www.newyorkfed.org/research/staff_reports/sr1072.html)
-
-**[Estimating HANK for Central Banks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4548683)** \
-with [Sushant Acharya](https://sushantacharya.github.io/), [William Chen](https://economics.mit.edu/people/phd-students/william-chen), [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Shlok Goyal, Ethan Matlin, [Donggyu Lee](https://sites.google.com/view/donggyulee), [Reca Sarfati](http://www.recasarfati.com/), and Sikata Sengupta\
-[NY Fed Staff Report No. 1071](https://www.newyorkfed.org/research/staff_reports/sr1071.html), [CEPR Discussion Paper 18407](https://cepr.org/publications/dp18407)
 
 **[Estimates of Cost-Price Passthrough from Business Survey Data](https://keshavdogra.github.io/papers/dogra_et_al_cost_price_passthrough.pdf)** \
 with [Sebastian Heise](https://www.sebastianheise.com/), [Edward Knotek](https://www.clevelandfed.org/people/profiles/k/knotek-edward-s-ii), [Brent Meyer](https://www.atlantafed.org/research/economists/meyer-brent), [Robert Rich](https://www.clevelandfed.org/people/profiles/r/rich-robert-w), [Raphael Schoenle](https://people.brandeis.edu/~schoenle/), [Giorgio Topa](https://www.newyorkfed.org/research/economists/topa), [Wilbert van der Klaauw](https://www.newyorkfed.org/research/economists/vanderklaauw), and [Wändi Bruine de Bruin](https://priceschool.usc.edu/people/wandi-bruine-de-bruin/) \
@@ -34,6 +27,14 @@ with [Sushant Acharya](https://sushantacharya.github.io/) and [Sanjay R Singh](h
 
 ## Publications
 <a id="publications"></a>
+
+**[Estimating HANK for Central Banks](https://repositoriodigital.bcentral.cl/xmlui/bitstream/handle/20.500.12580/8017/Serie%20Banca%20Central%20vol.%2030.pdf)** \
+with [Sushant Acharya](https://sushantacharya.github.io/), [William Chen](https://economics.mit.edu/people/phd-students/william-chen), [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Shlok Goyal, Ethan Matlin, [Donggyu Lee](https://sites.google.com/view/donggyulee), [Reca Sarfati](http://www.recasarfati.com/), and Sikata Sengupta\
+*Proceedings of the XXV Annual Conference of the Central Bank of Chile*, 2024
+
+**[The New York Fed DSGE Model: A Post-Covid Assessment](https://doi.org/10.1257/pandp.20241053)** \
+with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Pranay Gundam, [Donggyu Lee](https://sites.google.com/view/donggyulee), Ramya Nallamotu, and Brian Pacula\
+*AEA Papers and Proceedings*, 2024, Vol 114 (May), 95–100
 
 **[Stress Tests and Model Monoculture](https://doi.org/10.1016/j.jfineco.2023.103760)** \
 with [Keeyoung Rhee](https://sites.google.com/view/keeyoungrhee/) \
