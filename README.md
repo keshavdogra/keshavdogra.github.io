@@ -30,7 +30,7 @@ with [Sushant Acharya](https://sushantacharya.github.io/) and [Sanjay R Singh](h
 
 **[Estimating HANK for Central Banks](https://repositoriodigital.bcentral.cl/xmlui/bitstream/handle/20.500.12580/8017/Serie%20Banca%20Central%20vol.%2030.pdf)** \
 with [Sushant Acharya](https://sushantacharya.github.io/), [William Chen](https://economics.mit.edu/people/phd-students/william-chen), [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Shlok Goyal, Ethan Matlin, [Donggyu Lee](https://sites.google.com/view/donggyulee), [Reca Sarfati](http://www.recasarfati.com/), and Sikata Sengupta\
-*Proceedings of the XXV Annual Conference of the Central Bank of Chile*, 2024
+in *Heterogeneity in Macroeconomics: Implications for Monetary Policy*, edited by Sofía Bauducco, Andrés Fernández, and Giovanni L. Violante, 2024, 181-225
 
 **[The New York Fed DSGE Model: A Post-Covid Assessment](https://doi.org/10.1257/pandp.20241053)** \
 with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Pranay Gundam, [Donggyu Lee](https://sites.google.com/view/donggyulee), Ramya Nallamotu, and Brian Pacula\
