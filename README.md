@@ -1,6 +1,10 @@
 ## Working Papers
 <a id="working-papers"></a> 
 
+**[Tradeoffs for the Poor, Divine Coincidence for the Rich](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1147.pdf)** \
+with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Ibrahima Diagne, Pranay Gundam, [Donggyu Lee](https://sites.google.com/view/donggyulee), and Brian Pacula\
+[NY Fed Staff Report No. 1147](https://www.newyorkfed.org/research/staff_reports/sr1147)
+
 **[The Nonlinear Case Against Leaning Against the Wind](https://keshavdogra.github.io/papers/BCDEL_2024.pdf)** \
 with [Nina Boyarchenko](https://www.newyorkfed.org/research/economists/Boyarchenko), [Richard Crump](https://www.newyorkfed.org/research/economists/crump), [Leonardo Elias](https://www.newyorkfed.org/research/economists/elias), and Ignacio Lopez Gaffney\
 [NY Fed Staff Report No. 1100](https://www.newyorkfed.org/research/staff_reports/sr1100.html)
