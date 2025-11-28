@@ -1,6 +1,10 @@
 ## Working Papers
 <a id="working-papers"></a> 
 
+**[Is the Green Transition Inflationary?](https://keshavdogra.github.io/papers/DNdiGDo_climate_inflation%20v3.pdf)** \
+with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro) and [Julian di Giovanni](https://julian.digiovanni.ca/) \
+[NY Fed Staff Report No. 1053](https://www.newyorkfed.org/research/staff_reports/sr1053), [CEPR Discussion Paper 17906](https://cepr.org/publications/dp17906)
+
 **[Tradeoffs for the Poor, Divine Coincidence for the Rich](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1147.pdf)** \
 with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Ibrahima Diagne, Pranay Gundam, [Donggyu Lee](https://sites.google.com/view/donggyulee), and Brian Pacula\
 [NY Fed Staff Report No. 1147](https://www.newyorkfed.org/research/staff_reports/sr1147), [CEPR Discussion Paper 20084](https://cepr.org/publications/dp20084)
@@ -20,10 +24,6 @@ R&R, *Journal of the European Economic Association*\
 **[Estimates of Cost-Price Passthrough from Business Survey Data](https://keshavdogra.github.io/papers/dogra_et_al_cost_price_passthrough.pdf)** \
 with [Sebastian Heise](https://www.sebastianheise.com/), [Edward Knotek](https://www.clevelandfed.org/people/profiles/k/knotek-edward-s-ii), [Brent Meyer](https://www.atlantafed.org/research/economists/meyer-brent), [Robert Rich](https://www.clevelandfed.org/people/profiles/r/rich-robert-w), [Raphael Schoenle](https://people.brandeis.edu/~schoenle/), [Giorgio Topa](https://www.newyorkfed.org/research/economists/topa), [Wilbert van der Klaauw](https://www.newyorkfed.org/research/economists/vanderklaauw), and [Wändi Bruine de Bruin](https://priceschool.usc.edu/people/wandi-bruine-de-bruin/) \
 [NY Fed Staff Report No. 1062](https://www.newyorkfed.org/research/staff_reports/sr1062.html)
-
-**[Is the Green Transition Inflationary?](https://keshavdogra.github.io/papers/DNdiGDo_climate_inflation%20v2.pdf)** \
-with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro) and [Julian di Giovanni](https://julian.digiovanni.ca/) \
-[NY Fed Staff Report No. 1053](https://www.newyorkfed.org/research/staff_reports/sr1053), [CEPR Discussion Paper 17906](https://cepr.org/publications/dp17906)
 
 **[The Financial Origins of Non-Fundamental Risk](https://keshavdogra.github.io/papers/ADS_Nov21.pdf)** \
 with [Sushant Acharya](https://sushantacharya.github.io/) and [Sanjay R Singh](https://ssingh.ucdavis.edu/) \
