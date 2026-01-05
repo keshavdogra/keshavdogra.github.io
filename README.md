@@ -5,10 +5,6 @@
 with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro) and [Julian di Giovanni](https://julian.digiovanni.ca/) \
 [NY Fed Staff Report No. 1053](https://www.newyorkfed.org/research/staff_reports/sr1053), [CEPR Discussion Paper 17906](https://cepr.org/publications/dp17906)
 
-**[Tradeoffs for the Poor, Divine Coincidence for the Rich](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1147.pdf)** \
-with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Ibrahima Diagne, Pranay Gundam, [Donggyu Lee](https://sites.google.com/view/donggyulee), and Brian Pacula\
-[NY Fed Staff Report No. 1147](https://www.newyorkfed.org/research/staff_reports/sr1147), [CEPR Discussion Paper 20084](https://cepr.org/publications/dp20084)
-
 **[The Nonlinear Case Against Leaning Against the Wind](https://keshavdogra.github.io/papers/BCDEL_2024.pdf)** \
 with [Nina Boyarchenko](https://www.newyorkfed.org/research/economists/Boyarchenko), [Richard Crump](https://www.newyorkfed.org/research/economists/crump), [Leonardo Elias](https://www.newyorkfed.org/research/economists/elias), and Ignacio Lopez Gaffney\
 [NY Fed Staff Report No. 1100](https://www.newyorkfed.org/research/staff_reports/sr1100.html)
@@ -31,6 +27,10 @@ with [Sushant Acharya](https://sushantacharya.github.io/) and [Sanjay R Singh](h
 
 ## Publications
 <a id="publications"></a>
+
+**[Tradeoffs for the Poor, Divine Coincidence for the Rich](https://doi.org/10.1016/j.jedc.2025.105221)** \
+with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Ibrahima Diagne, Pranay Gundam, [Donggyu Lee](https://sites.google.com/view/donggyulee), and Brian Pacula\
+*Journal of Economic Dynamics and Control*, 2026, Vol 182 (January)
 
 **[Estimating HANK for Central Banks](https://repositoriodigital.bcentral.cl/xmlui/bitstream/handle/20.500.12580/8017/Serie%20Banca%20Central%20vol.%2030.pdf)** \
 with [Sushant Acharya](https://sushantacharya.github.io/), [William Chen](https://economics.mit.edu/people/phd-students/william-chen), [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Shlok Goyal, Ethan Matlin, [Donggyu Lee](https://sites.google.com/view/donggyulee), [Reca Sarfati](http://www.recasarfati.com/), and Sikata Sengupta\
