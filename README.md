@@ -29,15 +29,15 @@ with [Sushant Acharya](https://sushantacharya.github.io/) and [Sanjay R Singh](h
 <a id="publications"></a>
 
 **[Tradeoffs for the Poor, Divine Coincidence for the Rich](https://doi.org/10.1016/j.jedc.2025.105221)** \
-with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Ibrahima Diagne, Pranay Gundam, [Donggyu Lee](https://sites.google.com/view/donggyulee), and Brian Pacula\
+with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Ibrahima Diagne, Pranay Gundam, [Donggyu Lee](https://dglee81.github.io/), and Brian Pacula\
 *Journal of Economic Dynamics and Control*, 2026, Vol 182 (January)
 
 **[Estimating HANK for Central Banks](https://repositoriodigital.bcentral.cl/xmlui/bitstream/handle/20.500.12580/8017/Serie%20Banca%20Central%20vol.%2030.pdf)** \
-with [Sushant Acharya](https://sushantacharya.github.io/), [William Chen](https://economics.mit.edu/people/phd-students/william-chen), [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Shlok Goyal, Ethan Matlin, [Donggyu Lee](https://sites.google.com/view/donggyulee), [Reca Sarfati](http://www.recasarfati.com/), and Sikata Sengupta\
+with [Sushant Acharya](https://sushantacharya.github.io/), [William Chen](https://economics.mit.edu/people/phd-students/william-chen), [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Shlok Goyal, Ethan Matlin, [Donggyu Lee](https://dglee81.github.io/), [Reca Sarfati](http://www.recasarfati.com/), and Sikata Sengupta\
 in *Heterogeneity in Macroeconomics: Implications for Monetary Policy*, edited by Sofía Bauducco, Andrés Fernández, and Giovanni L. Violante, 2024, 181-225
 
 **[The New York Fed DSGE Model: A Post-Covid Assessment](https://doi.org/10.1257/pandp.20241053)** \
-with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Pranay Gundam, [Donggyu Lee](https://sites.google.com/view/donggyulee), Ramya Nallamotu, and Brian Pacula\
+with [Marco Del Negro](https://www.newyorkfed.org/research/economists/delnegro), Aidan Gleich, Pranay Gundam, [Donggyu Lee](https://dglee81.github.io/), Ramya Nallamotu, and Brian Pacula\
 *AEA Papers and Proceedings*, 2024, Vol 114 (May), 95–100
 
 **[Stress Tests and Model Monoculture](https://doi.org/10.1016/j.jfineco.2023.103760)** \
